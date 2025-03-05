@@ -1,3 +1,3 @@
 //your JS code here. If required.
 let origin = location.origin
-alert(origin.length)
+alert("The length of the URL is:" + origin.length)
